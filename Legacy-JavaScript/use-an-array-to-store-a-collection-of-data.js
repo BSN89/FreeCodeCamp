@@ -1,0 +1,1 @@
+let yourArray = ['str',35, true,{a:'a'}, 45]; // Change this line
